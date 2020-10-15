@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\СВП\\LABASVP2DZ\\LABASVP2DZ\\ClassLibrary2\\ClassLibrary2.csproj",
+      "projectUniqueName": "C:\\СВП\\LABASVP2GIT\\ClassLibrary2\\ClassLibrary2.csproj",
       "projectName": "ClassLibrary2",
-      "projectPath": "C:\\СВП\\LABASVP2DZ\\LABASVP2DZ\\ClassLibrary2\\ClassLibrary2.csproj",
+      "projectPath": "C:\\СВП\\LABASVP2GIT\\ClassLibrary2\\ClassLibrary2.csproj",
       "packagesPath": "C:\\Users\\Tanya\\.nuget\\packages\\",
-      "outputPath": "C:\\СВП\\LABASVP2DZ\\LABASVP2DZ\\ClassLibrary2\\obj\\",
+      "outputPath": "C:\\СВП\\LABASVP2GIT\\ClassLibrary2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tanya\\AppData\\Roaming\\NuGet\\NuGet.Config",
