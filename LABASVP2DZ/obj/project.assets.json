@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tanya\\.nuget\\packages\\": {}
+    "C:\\Users\\okappa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\СВП\\LABASVP2GIT\\LABASVP2DZ\\LABASVP2DZ.csproj",
+      "projectUniqueName": "C:\\Users\\okappa\\Desktop\\SVP\\LABASVP2DZ\\LABASVP2DZ.csproj",
       "projectName": "LABASVP2DZ",
-      "projectPath": "C:\\СВП\\LABASVP2GIT\\LABASVP2DZ\\LABASVP2DZ.csproj",
-      "packagesPath": "C:\\Users\\Tanya\\.nuget\\packages\\",
-      "outputPath": "C:\\СВП\\LABASVP2GIT\\LABASVP2DZ\\obj\\",
+      "projectPath": "C:\\Users\\okappa\\Desktop\\SVP\\LABASVP2DZ\\LABASVP2DZ.csproj",
+      "packagesPath": "C:\\Users\\okappa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\okappa\\Desktop\\SVP\\LABASVP2DZ\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tanya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\okappa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -52,8 +52,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\СВП\\LABASVP2GIT\\ClassLibrary2\\ClassLibrary2.csproj": {
-              "projectPath": "C:\\СВП\\LABASVP2GIT\\ClassLibrary2\\ClassLibrary2.csproj"
+            "C:\\Users\\okappa\\Desktop\\SVP\\ClassLibrary2\\ClassLibrary2.csproj": {
+              "projectPath": "C:\\Users\\okappa\\Desktop\\SVP\\ClassLibrary2\\ClassLibrary2.csproj"
             }
           }
         }

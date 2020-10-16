@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "NBNq7bhCL9klr2qR7Nw5cMwQEiivV232Uw1z5fGkcYJHKKPB9QxfRHkL1AqdLcvl8z5XPXi7JdY4T9gYEg0s1w==",
+  "dgSpecHash": "Mw76u9VblSwb9zXhlVfDaa79Ft5uf2UvtXDlGx8stq3gObEfowhSLHplksPEuUivj6ENEx3+vUqQSvJZ4h0cNw==",
   "success": true,
-  "projectFilePath": "C:\\СВП\\LABASVP2GIT\\ClassLibrary2\\ClassLibrary2.csproj",
+  "projectFilePath": "C:\\Users\\okappa\\Desktop\\SVP\\ClassLibrary2\\ClassLibrary2.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Tanya\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Tanya\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\okappa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\okappa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -180,19 +180,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tanya\\.nuget\\packages\\": {}
+    "C:\\Users\\okappa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\СВП\\LABASVP2GIT\\ClassLibrary2\\ClassLibrary2.csproj",
+      "projectUniqueName": "C:\\Users\\okappa\\Desktop\\SVP\\ClassLibrary2\\ClassLibrary2.csproj",
       "projectName": "ClassLibrary2",
-      "projectPath": "C:\\СВП\\LABASVP2GIT\\ClassLibrary2\\ClassLibrary2.csproj",
-      "packagesPath": "C:\\Users\\Tanya\\.nuget\\packages\\",
-      "outputPath": "C:\\СВП\\LABASVP2GIT\\ClassLibrary2\\obj\\",
+      "projectPath": "C:\\Users\\okappa\\Desktop\\SVP\\ClassLibrary2\\ClassLibrary2.csproj",
+      "packagesPath": "C:\\Users\\okappa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\okappa\\Desktop\\SVP\\ClassLibrary2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tanya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\okappa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
