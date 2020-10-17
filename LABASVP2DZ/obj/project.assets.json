@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "calc/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/calc.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/calc.dll": {}
+        }
+      },
       "ClassLibrary2/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "calc/1.0.0": {
+      "type": "project",
+      "path": "../../lab/PowSqrLib/calc.csproj",
+      "msbuildProject": "../../lab/PowSqrLib/calc.csproj"
+    },
     "ClassLibrary2/1.0.0": {
       "type": "project",
       "path": "../ClassLibrary2/ClassLibrary2.csproj",
@@ -23,7 +38,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "ClassLibrary2 >= 1.0.0"
+      "ClassLibrary2 >= 1.0.0",
+      "calc >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -52,6 +68,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "C:\\Users\\okappa\\Desktop\\lab\\PowSqrLib\\calc.csproj": {
+              "projectPath": "C:\\Users\\okappa\\Desktop\\lab\\PowSqrLib\\calc.csproj"
+            },
             "C:\\Users\\okappa\\Desktop\\SVP\\ClassLibrary2\\ClassLibrary2.csproj": {
               "projectPath": "C:\\Users\\okappa\\Desktop\\SVP\\ClassLibrary2\\ClassLibrary2.csproj"
             }

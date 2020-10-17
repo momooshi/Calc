@@ -4,6 +4,58 @@
     "C:\\Users\\okappa\\Desktop\\SVP\\LABASVP2DZ\\LABASVP2DZ.csproj": {}
   },
   "projects": {
+    "C:\\Users\\okappa\\Desktop\\lab\\PowSqrLib\\calc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\okappa\\Desktop\\lab\\PowSqrLib\\calc.csproj",
+        "projectName": "calc",
+        "projectPath": "C:\\Users\\okappa\\Desktop\\lab\\PowSqrLib\\calc.csproj",
+        "packagesPath": "C:\\Users\\okappa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\okappa\\Desktop\\lab\\PowSqrLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\okappa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\okappa\\Desktop\\SVP\\ClassLibrary2\\ClassLibrary2.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -82,6 +134,9 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
+              "C:\\Users\\okappa\\Desktop\\lab\\PowSqrLib\\calc.csproj": {
+                "projectPath": "C:\\Users\\okappa\\Desktop\\lab\\PowSqrLib\\calc.csproj"
+              },
               "C:\\Users\\okappa\\Desktop\\SVP\\ClassLibrary2\\ClassLibrary2.csproj": {
                 "projectPath": "C:\\Users\\okappa\\Desktop\\SVP\\ClassLibrary2\\ClassLibrary2.csproj"
               }

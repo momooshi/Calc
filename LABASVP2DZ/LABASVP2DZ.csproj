@@ -14,6 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\lab\PowSqrLib\calc.csproj" />
     <ProjectReference Include="..\ClassLibrary2\ClassLibrary2.csproj" />
   </ItemGroup>
 
